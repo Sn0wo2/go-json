@@ -3,6 +3,7 @@
 ![Go](https://github.com/goccy/go-json/workflows/Go/badge.svg)
 [![GoDoc](https://godoc.org/github.com/goccy/go-json?status.svg)](https://pkg.go.dev/github.com/goccy/go-json?tab=doc)
 [![codecov](https://codecov.io/gh/goccy/go-json/branch/master/graph/badge.svg)](https://codecov.io/gh/goccy/go-json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2Fgo-json.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2Fgo-json?ref=badge_shield)
 
 Fast JSON encoder/decoder compatible with encoding/json for Go
 
@@ -527,3 +528,6 @@ I'm looking for sponsors this library. This library is being developed as a pers
 # License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2Fgo-json.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2Fgo-json?ref=badge_large)
